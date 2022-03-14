@@ -1,2 +1,2 @@
-# EstruturaDeDadosRocketSeat
-Aqui vou colcoar o código que faço para a aula de estrutura de dados da Rocketseat 
+# Aulas da RocketSeat - Discover
+Aqui vou colcoar o código que faço para as aulas da Rocketseat 
