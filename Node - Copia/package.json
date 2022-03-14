@@ -1,0 +1,15 @@
+{
+  "name": "random",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node rodando.js"
+  },
+  "keywords": [],
+  "author": "Rafael Silva",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.10.0"
+  }
+}
